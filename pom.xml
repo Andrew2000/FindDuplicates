@@ -77,7 +77,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>com.andrew.findduplicates.DeduperMain</mainClass>
+                    <mainClass>com.andrew.findduplicates.FindDuplicatesMain</mainClass>
                 </configuration>
             </plugin>
             <plugin>
